@@ -1,15 +1,16 @@
-# Sales Analysis Project
+# 📊 Madhav Ecommerce Sales Dashboard
 
-## Tools Used
-- Excel
+## 🔍 Overview
+This project analyzes ecommerce sales data using Power BI.
+
+## 📈 Key Insights
+- Maharashtra has highest sales
+- Clothing category dominates (63%)
+- COD is most used payment method (44%)
+
+## 🛠 Tools Used
 - Power BI
+- Excel
 
-## Description
-This project analyzes sales data and provides insights.
-
-## Files
-- Excel dataset
-- Power BI dashboard
-
-## Dashboard Preview
-screenshots/dashboard.png
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
